@@ -1,2 +1,11 @@
+*
+!makefile
+!MANIFEST.MF
+!com/
+!com/craftinginterpreters
+!com/craftinginterpreters/lox
 com/craftinginterpreters/lox/*
 !com/craftinginterpreters/lox/*.java
+!com/craftinginterpreters/tool
+com/craftinginterpreters/tool/*
+!com/craftinginterpreters/tool/*.java
