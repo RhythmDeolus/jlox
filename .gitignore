@@ -1,5 +1,6 @@
 *
 !makefile
+!README.md
 !MANIFEST.MF
 !com/
 !com/craftinginterpreters
